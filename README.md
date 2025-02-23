@@ -35,8 +35,8 @@ These instructions explain how to install the Code Extractor and make it accessi
     *   **Download:** If you have a link to a repository (e.g., on GitHub), you can clone it:
 
         ```bash
-        git clone <repository_url>
-        cd <repository_directory>
+        git clone https://github.com/modecode22/ex
+        cd ex
         ```
 
 2.  **Compile:**
